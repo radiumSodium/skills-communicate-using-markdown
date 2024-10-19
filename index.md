@@ -15,3 +15,7 @@ Initalize empty git repository
 ```javascript
 var myvar = "Hello world!"
 ```
+
+- [x] Turn on github
+- [ ] Open a pull request
+- [ ] make the commit
