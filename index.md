@@ -5,4 +5,13 @@
 ##### This is `<H5>` header
 ###### This is `<H6>` header
 
-![Image of octacat]([https://octodex.github.com/images/yaktocat.png](https://octodex.github.com/umbrellatocat/))
+![Image of octacat](https://octodex.github.com/umbrellatocat/)
+
+```
+$ git init
+Initalize empty git repository
+```
+
+```javascript
+var myvar = "Hello world!"
+```
